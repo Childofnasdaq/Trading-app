@@ -1,0 +1,12 @@
+{
+  "name": "mt5-auto-trading-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "puppeteer": "^19.0.0"
+  }
+}
